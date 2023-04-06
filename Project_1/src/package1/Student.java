@@ -17,7 +17,7 @@ public class Student { //contains variable + method(for performing an action/ope
 		ref_var_1.display2(); 
 		ref_var_1.age = 120; //calling variable and assigning value
 		ref_var_1.rollno = 5;
-		System.out.println("Age is " + ref_var_1.age); //print var value
-		System.out.println("Rollno is " + ref_var_1.rollno);
+		System.out.println("The Age is " + ref_var_1.age); //print var value
+		System.out.println("The Rollno is " + ref_var_1.rollno);
 	}
 }
